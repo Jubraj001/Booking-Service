@@ -1,3 +1,5 @@
-module.exports = {
+const BookingService = require("./booking-service");
 
+module.exports = {
+  BookingService
 }
